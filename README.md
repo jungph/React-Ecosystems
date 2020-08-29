@@ -10,12 +10,16 @@ Basic 'To Do' application that demonstrates the use cases and implementations fo
   
 To run the project, navigate to /React-Ecosystems/
 >'npm install'
+>
 >'npm run dev': "npx webpack-dev-server --mode development"
+>
 >'npm run build': "npx webpack --mode development"
+>
 >'npm run test': "mocha \"src/**/*.test.js\" --require @babel/register --recursive"
 
 To run the server, navigate to /React-Ecosystems/react-ecosystems-server/
 >'npm install'
+>
 >'npm run start'
 
 Tutorial and Instructions provided
